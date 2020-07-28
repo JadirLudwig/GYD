@@ -1,0 +1,25 @@
+{
+  "name": "up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "up": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadirLudwig/up.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JadirLudwig/up/issues"
+  },
+  "homepage": "https://github.com/JadirLudwig/up#readme",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
